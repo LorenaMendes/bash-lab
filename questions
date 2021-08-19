@@ -1,0 +1,29 @@
+Q1: Qual é a 1645-ésima senha da rockyou.txt?
+R1: 
+
+Q2: Qual é a última senha antes da linha 10.000 que contém a substring "dito"?
+R2: 
+
+Q3: Qual é a primeira senha depois da linha 10.000 que contém a substring "dito"?
+R3: 
+
+Q4: Segundo o manual do less, qual é a flag que exibe múltiplas linhas vazias como apenas uma linha vazia? (dica: é equivalente à flag --squeeze-blank-lines)
+R4: 
+
+Q5: Encontre uma senha que comece com "sha" e uma senha que termine com "aba". Em quais linhas elas estão?
+R5: 
+
+Q6: Encontre uma senha que tenha pelo menos 15 caracteres. Em qual linha ela está?
+R6: 
+
+Q7: Encontre uma senha entre 11 e 13 caracteres. Em qual linha ela está?
+R7: 
+
+Q8: Encontre uma senha que comece com "a" e termine com "z". Qual comando você usou?
+R8: 
+
+Q9: Encontre uma senha que comece com "x", termine com "t" e tenha exatamente 6 caracteres. Em qual linha ela está?
+R9: 
+
+Desafio: Encontre minha senha na rockyou! =)
+R10:
